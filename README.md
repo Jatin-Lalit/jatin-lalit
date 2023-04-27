@@ -1,3 +1,6 @@
+<image src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif"/>
+
+
 # 💫 About Me:
 🔭 I’m currently working on  my skills<br><br>🌱 I’m currently learning  some good stuff<br><br>👯 I’m looking to collaborate on the thing I good on<br><br>🤝 I’m looking for help with the bugs in my code and life<br><br>💬 Ask me about something I know only<br><br>⚡ Fun fact working with me will be more fun
 
@@ -24,13 +27,12 @@
 ###    <title>Super Fun Developer Profile</title>
 ### </head>
 ### <body>
-###   <h1>Laugh and Learn with Me</h1>
+###   <h1>Laugh, Learn and Explore with Me</h1>
 ###   <p>Hey there! I may not be the most experienced coder, but I bring the fun wherever I go. Here's a little bit of JavaScript to tickle your funny bone:</p>
 ###    <script>
 ###      var joke = "Why did the programmer quit his job? He didn't get arrays!";
 ###      alert(joke);
 ###   </script>
-###   <p>See what I did there? Now, let's make some amazing things together!</p>
 ### </body>
 ### </html>
 
