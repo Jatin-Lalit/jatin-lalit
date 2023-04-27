@@ -1,4 +1,4 @@
-<image style="width:900px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
+<image  src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
 
 
 # 💫 About Me:
