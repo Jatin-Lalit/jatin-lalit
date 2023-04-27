@@ -1,20 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  my skills<br><br>🌱 I’m currently learning  some good stuff<br><br>👯 I’m looking to collaborate on the thing I good on<br><br>🤝 I’m looking for help with the bugs in my code and life<br><br>💬 Ask me about something I know only<br><br>⚡ Fun fact working with me will be more fun
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Super Fun Developer Profile</title>
-  </head>
-  <body>
-    <h1>Laugh and Learn with Me</h1>
-    <p>Hey there! I may not be the most experienced coder, but I bring the fun wherever I go. Here's a little bit of JavaScript to tickle your funny bone:</p>
-    <script>
-      var joke = "Why did the programmer quit his job? He didn't get arrays!";
-      alert(joke);
-    </script>
-    <p>See what I did there? Now, let's make some amazing things together!</p>
-  </body>
-</html>
+
 
 
 # 💻 Tech Stack:
@@ -24,17 +10,29 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-lalit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-lalit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-lalit&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Jatin-lalit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+"<!DOCTYPE html>"
+"<html>"
+ " <head>"
+   "<title>Super Fun Developer Profile</title>"
+  "</head>"
+  "<body>"
+    "<h1>Laugh and Learn with Me</h1>"
+"<p>Hey there! I may not be the most experienced coder, but I bring the fun wherever I go. Here's a little bit of JavaScript to tickle you funny bone:</p>"
+   " <script>"
+      "var joke = "Why did the programmer quit his job? He didn't get arrays!";"
+     " alert(joke);"
+    "</script>"
+    "<p>See what I did there? Now, let's make some amazing things together!</p>"
+"</body>"
+"</html>"
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jatinlalit0) 
