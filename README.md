@@ -18,21 +18,21 @@
 
 
 
-"<!DOCTYPE html>"
-"<html>"
- " <head>"
-   "<title>Super Fun Developer Profile</title>"
-  "</head>"
-  "<body>"
-    "<h1>Laugh and Learn with Me</h1>"
-"<p>Hey there! I may not be the most experienced coder, but I bring the fun wherever I go. Here's a little bit of JavaScript to tickle you funny bone:</p>"
-   " <script>"
-      "var joke = "Why did the programmer quit his job? He didn't get arrays!";"
-     " alert(joke);"
-    "</script>"
-    "<p>See what I did there? Now, let's make some amazing things together!</p>"
-"</body>"
-"</html>"
+### <!DOCTYPE html>
+### <html>
+###  <head>
+###    <title>Super Fun Developer Profile</title>
+### </head>
+### <body>
+###   <h1>Laugh and Learn with Me</h1>
+###   <p>Hey there! I may not be the most experienced coder, but I bring the fun wherever I go. Here's a little bit of JavaScript to tickle your funny bone:</p>
+###    <script>
+###      var joke = "Why did the programmer quit his job? He didn't get arrays!";
+###      alert(joke);
+###   </script>
+###   <p>See what I did there? Now, let's make some amazing things together!</p>
+### </body>
+### </html>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jatinlalit0) 
