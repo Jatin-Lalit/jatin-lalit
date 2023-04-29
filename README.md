@@ -4,6 +4,10 @@
 
 # 💫 About Me:
 🔭 I’m currently working on  my skills<br><br>🌱 I’m currently learning  some good stuff<br><br>👯 I’m looking to collaborate on the thing I good on<br><br>🤝 I’m looking for help with the bugs in my code and life<br><br>💬 Ask me about something I know only<br><br>⚡ Fun fact working with me will be more fun
+
+
+
+
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
