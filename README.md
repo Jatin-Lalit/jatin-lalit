@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on  my skills<br><br>🌱 I’m currently learning  some good stuff<br><br>👯 I’m looking to collaborate on the thing I good on<br><br>🤝 I’m looking for help with the bugs in my code and life<br><br>💬 Ask me about something I know only<br><br>⚡ Fun fact working with me will be more fun
+🔭 Currently working on expanding my skill set.<br><br>🌱 Learning some exciting new things at the moment.<br><br>👯 Interested in teaming up on projects that align with my strengths.<br><br>🤝 Seeking assistance with both code issues and personal growth.<br><br>💬 Feel free to ask about topics I'm familiar with.<br><br>⚡ Working with me guarantees a fun and productive experience.
 
 
 
