@@ -10,12 +10,6 @@
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
-[![Portfolio](https://your-portfolio-image-url.com/logo.png)](https://jatin-lalit.github.io)
-[![LinkedIn](https://your-linkedin-image-url.com/logo.png)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
-https://www.linkedin.com/in/jatin-lalit-a4aa50236
-jatin-lalit.github.io
-https://jatin-lalit.github.io
-<h1  href="jatin-lalit.github.io">portfolio </h1>
 
 # 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
