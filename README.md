@@ -9,6 +9,13 @@
 
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
+[![Portfolio](https://example.com/your-image-url.jpg)](https://jatin-lalit.github.io):
+[![LinkedIn](https://example.com/your-linkedin-image-url.jpg)](https://www.linkedin.com/in/jatin-lalit-a4aa50236):
+
+
+
+
+
 
 # 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
