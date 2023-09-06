@@ -13,7 +13,7 @@
 [![Portfolio](https://your-portfolio-image-url.com/logo.png)](https://jatin-lalit.github.io)
 [![LinkedIn](https://your-linkedin-image-url.com/logo.png)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 https://www.linkedin.com/in/jatin-lalit-a4aa50236
-
+jatin-lalit.github.io
 
 
 # 💻 Tech Stack:
