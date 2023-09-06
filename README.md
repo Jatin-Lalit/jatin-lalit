@@ -9,6 +9,9 @@
 
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
+https://jatin-lalit.github.io/
+[![Portfolio](https://your-portfolio-image-url.com/logo.png)](https://jatin-lalit.github.io)
+[![LinkedIn](https://your-linkedin-image-url.com/logo.png)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 
 
 # 💻 Tech Stack:
