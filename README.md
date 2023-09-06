@@ -9,9 +9,6 @@
 
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-[![Portfolio](https://example.com/your-image-url.jpg)](https://jatin-lalit.github.io):
-[![LinkedIn](https://example.com/your-linkedin-image-url.jpg)](https://www.linkedin.com/in/jatin-lalit-a4aa50236):
-
 
 
 
