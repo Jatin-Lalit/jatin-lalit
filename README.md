@@ -14,7 +14,7 @@
 [![LinkedIn](https://your-linkedin-image-url.com/logo.png)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 https://www.linkedin.com/in/jatin-lalit-a4aa50236
 jatin-lalit.github.io
-
+https://jatin-lalit.github.io
 
 # 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
