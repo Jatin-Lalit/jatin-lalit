@@ -3,13 +3,13 @@
 
 
 # 💫 About Me:
-🔭 Currently working on expanding my skill set.<br><br>🌱 Learning some exciting new things at the moment.<br><br>👯 Interested in teaming up on projects that align with my strengths.<br><br>🤝 Seeking assistance with both code issues and personal growth.<br><br>💬 Feel free to ask about topics I'm familiar with.<br><br>⚡ Working with me guarantees a fun and productive experience.<br><br>👯  All of my projects are available at https://jatin-lalit.github.io/
-https://www.linkedin.com/in/jatin-lalit-a4aa50236/
-
+🔭 Currently working on expanding my skill set.<br><br>🌱 Learning some exciting new things at the moment.<br><br>👯 Interested in teaming up on projects that align with my strengths.<br><br>🤝 Seeking assistance with both code issues and personal growth.<br><br>💬 Feel free to ask about topics I'm familiar with.<br><br>⚡ Working with me guarantees a fun and productive experience.
 
 
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
+[![Portfolio](https://example.com/your-image-url.jpg)](https://jatin-lalit.github.io/)
+[![LinkedIn](https://example.com/your-linkedin-image-url.jpg)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 
 
 # 💻 Tech Stack:
