@@ -4,10 +4,10 @@
 
 # 💫 About Me:
 🔭 Currently working on expanding my skill set.<br><br>🌱 Learning some exciting new things at the moment.<br><br>👯 Interested in teaming up on projects that align with my strengths.<br><br>🤝 Seeking assistance with both code issues and personal growth.<br><br>💬 Feel free to ask about topics I'm familiar with.<br><br>⚡ Working with me guarantees a fun and productive experience.
-https://jatin-lalit.github.io/
+
 
 <img style="margin-left:400px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-https://www.linkedin.com/in/jatin-lalit-a4aa50236 <br><br> https://jatin-lalit.github.io/
+
 
 
 # 💻 Tech Stack:
