@@ -1,4 +1,4 @@
-https://jatin-lalit.github.io/<br><br>https://www.linkedin.com/in/jatin-lalit-a4aa50236
+<br><br>https://www.linkedin.com/in/jatin-lalit-a4aa50236
 
 <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
 
@@ -37,6 +37,8 @@ https://jatin-lalit.github.io/<br><br>https://www.linkedin.com/in/jatin-lalit-a4
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+#Connect Me!
+[![Portfolio](https://img.shields.io/badge/logo-Your%20Website-<COLOR>?style=<STYLE>&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE_DATA>)](https://jatin-lalit.github.io/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jatin-lalit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-lalit&theme=dark&hide_border=false)<br/>
