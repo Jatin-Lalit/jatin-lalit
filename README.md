@@ -1,4 +1,4 @@
-
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://jatin-lalit.github.io/)
 <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
 
 
@@ -12,6 +12,7 @@
 ⚡ Working with me guarantees a fun and productive experience.
 
 
+🌐 Portfolio: [View my portfolio here](https://jatin-lalit.github.io/)
 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 
 
