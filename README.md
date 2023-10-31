@@ -2,6 +2,8 @@
 <a href="https://jatin-lalit.github.io/">
     <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" />
 </a>
+[![Click to view GIF](https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif)](https://jatin-lalit.github.io/)
+
 <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
 
 
