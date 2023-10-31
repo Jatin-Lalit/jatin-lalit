@@ -1,4 +1,4 @@
-[![MasterHead](<img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>)](https://jatin-lalit.github.io/)
+[![MasterHead]("https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif")](https://jatin-lalit.github.io/)
 
 <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif"/>
 
@@ -12,7 +12,7 @@
 💬 Feel free to ask about topics I'm familiar with.<br><br>
 ⚡ Working with me guarantees a fun and productive experience.
 
-🌐 Portfolio: [View my portfolio here](https://jatin-lalit.github.io/)
+
 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
 
 
