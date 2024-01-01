@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 Currently working on expanding my skill set.<br><br>
+🔭 Currently working on expanding my skill set in GCP ☁️.<br><br>
 🌱 Learning some exciting new things at the moment.<br><br>
 👯 Interested in teaming up on projects that align with my strengths.<br><br>
 🤝 Seeking assistance with both code issues and personal growth.<br><br>
