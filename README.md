@@ -5,7 +5,7 @@
 
 <h1 align="center">🚀 Welcome to My Universe! 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=80&lines=AWS+Cloud+Architect+%7C+Full-Stack+Developer;Exploring+the+World+of+AI+%7C+Tech+Enthusiast;Building+Awesome+Projects+%7C+Open+Source+Lover;Code+like+a+poet+%F0%9F%93%96+%7C+Debug+like+a+detective+%F0%9F%94%8E;Nahh...+I+am+not+good%2C+just+doing+it+for+fun+%F0%9F%A4%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=80&lines=AWS+Cloud+Architect+%7C+Full-Stack+Developer;Exploring+the+World+of+AI+%7C+Tech+Enthusiast;Building+Awesome+Projects+%7C+Open+Source+Lover;👨‍💻+Code+like+a+Poet+%7C+🕵️‍♂️+Debug+like+a+Detective;Nahh,+I'm+not+good,+just+doing+it+for+fun!" />
 </p>
 
 
