@@ -4,9 +4,12 @@
 </a> 
 
 <h1 align="center">🚀 Welcome to My Universe! 🌌</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Coding+with+rhymes+like+a+poet;🕵️‍♂️+Debugging+like+a+detective%2C+finding+clues;🎭+Turning+ideas+into+awesome+projects;😆+Nahh...+I'm+just+doing+it+for+fun!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Coding+like+a+poet+%F0%9F%8E%AD;Adding+emojis+everywhere+%F0%9F%A4%98%F0%9F%98%8E%F0%9F%9A%80;Debugging+like+a+detective+%F0%9F%94%8E%F0%9F%91%AF;Nahh...+I+am+not+good+just+doing+it+for+fun!+%F0%9F%A4%9C%F0%9F%98%89" />
 </p>
+
+<p align="center" style="margin-bottom: 20px;"></p>
 
 
 
