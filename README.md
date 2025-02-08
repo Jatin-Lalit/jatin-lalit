@@ -78,14 +78,14 @@
 
 ---
 
-## ✨ Random Dev Quote:
+## ✨
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🔥 Help Me:
+## Help Me :
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50%" />
 </p>
