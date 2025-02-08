@@ -1,6 +1,7 @@
+
 <a href="https://jatin-lalit.github.io/">
-    <img src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" width="100%" height="auto" />
-</a>
+    <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" />
+</a> 
 
 <h1 align="center">🚀 Welcome to My Universe! 🌌</h1>
 <p align="center">
