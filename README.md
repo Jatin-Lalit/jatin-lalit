@@ -1,4 +1,3 @@
-
 <a href="https://jatin-lalit.github.io/">
     <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" />
 </a> 
@@ -6,12 +5,10 @@
 <h1 align="center">🚀 Welcome to My Universe! 🌌</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Coding+like+a+poet+%F0%9F%8E%AD;Adding+emojis+everywhere+%F0%9F%A4%98%F0%9F%98%8E%F0%9F%9A%80;Debugging+like+a+detective+%F0%9F%94%8E%F0%9F%91%AF;Nahh...+I+am+not+good+just+doing+it+for+fun!+%F0%9F%A4%9C%F0%9F%98%89" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=F7B801&center=true&vCenter=true&width=800&height=80&lines=Coding+like+a+poet+%F0%9F%8E%AD;Debugging+like+a+detective+%F0%9F%94%8E%F0%9F%91%AF;Nahh...+I+am+not+good+just+doing+it+for+fun!+%F0%9F%A4%9C%F0%9F%98%89" />
 </p>
 
 <p align="center" style="margin-bottom: 20px;"></p>
-
-
 
 ---
 
@@ -22,6 +19,7 @@
 - 👯 Love collaborating on **innovative projects** 💡
 - 🤝 Open to discussions on **code, career & growth** 🚀
 - 🎮 Passionate about **gaming & anime** 🎬
+
 
 ### 🌎 Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231a1b27.svg?style=for-the-badge&logo=vercel)](https://jatin-lalit.github.io/)
