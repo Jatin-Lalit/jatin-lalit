@@ -15,10 +15,11 @@
 ## 🎯 About Me:
 
 - 🔭 Currently mastering **AWS Cloud Technologies ☁️**
-- 🌱 Learning exciting **AI & ML** advancements 🧠
-- 👯 Love collaborating on **innovative projects** 💡
-- 🤝 Open to discussions on **code, career & growth** 🚀
-- 🎮 Passionate about **gaming & anime** 🎬
+- 🌍 Passionate about **building scalable solutions**  
+- 💡 Love brainstorming & **solving complex problems**  
+- 🤝 Open to **collaborations** & tech discussions  
+- 🎯 Constantly **learning & evolving** in the tech space  
+- ⚡ Always up for a **good challenge!**  
 
 
 ### 🌎 Connect with me:
