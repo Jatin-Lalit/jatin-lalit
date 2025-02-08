@@ -2,7 +2,7 @@
     <img style="width:900px; height:400px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" />
 </a> 
 
-<h1 align="center">🚀 Welcome to My Universe! 🌌</h1>
+<h1 align="center">🤨 Why you here? 🌌</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=F7B801&center=true&vCenter=true&width=800&height=80&lines=Coding+like+a+poet+%F0%9F%8E%AD;Debugging+like+a+detective+%F0%9F%94%8E%F0%9F%91%AF;Nahh...+am+not+that+good,+just+doing+it+for+fun!+%F0%9F%A4%9C%F0%9F%98%89" />
