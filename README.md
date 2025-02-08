@@ -29,6 +29,9 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vector DB](https://img.shields.io/badge/VectorDB-%23007ACC.svg?style=for-the-badge&logo=vector-db&logoColor=white)](https://www.pinecone.io/)
+[![LLM](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-%23FFCC00.svg?style=for-the-badge&logo=langchain&logoColor=black)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![REG Stack](https://img.shields.io/badge/REG%20Stack-%23336791.svg?style=for-the-badge&logo=reg-stack&logoColor=white)](https://www.example.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
@@ -47,8 +50,8 @@
 [![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 
 
 
