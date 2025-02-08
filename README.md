@@ -62,9 +62,7 @@
 ---
 
 ## 🚀 GitHub Stats & Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jatin-lalit&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-lalit&show_icons=true&theme=tokyonight" />
