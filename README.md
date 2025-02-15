@@ -34,6 +34,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-%2343A047.svg?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 [![Airtable](https://img.shields.io/badge/Airtable-%23F2C94C.svg?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vector DB](https://img.shields.io/badge/VectorDB-%23007ACC.svg?style=for-the-badge&logo=vector-db&logoColor=white)](https://www.pinecone.io/)
