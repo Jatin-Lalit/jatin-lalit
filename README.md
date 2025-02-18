@@ -70,9 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-lalit&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Jatin-lalit&theme=tokyonight" />
-</p>
+
 
 
 <p align="center">
