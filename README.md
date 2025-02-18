@@ -71,8 +71,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-lalit&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Jatin-lalit&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-lalit&layout=compact&theme=tokyonight" />
