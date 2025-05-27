@@ -50,25 +50,25 @@ const jatin: Developer = {
   name: "Jatin Lalit",
   pronouns: "He/Him",
   location: "India 🇮🇳",
-  age: calculateAge("2001-01-15"),
+  age: calculateAge("2003-06-17"),
   
-  currentRole: "Full-Stack Developer & Cloud Architect",
-  company: "Freelancer",
-  experience: "3+ years",
+  currentRole: "Primary Software Developer",
+  company: "Polar AI",
+  experience: "1+ years",
   
   currentFocus: [
-    "🏗️ Building Cloud-Native Applications",
-    "🤖 AI/ML Integration & LLM Development", 
-    "⚡ Performance Optimization",
-    "🔄 DevOps & CI/CD Pipeline"
+     "🏗️ Building Cloud-Native Applications",
+     "🤖 AI/ML Integration & AI Agent Development",
+     "⚡ Performance Optimization",
+     "📚 Learning DevOps & CI/CD Pipelines"
   ],
+
   
-  learning: [
-    "Advanced Kubernetes & Service Mesh",
-    "Microservices Architecture",
-    "Advanced AI/ML & Deep Learning",
-    "Blockchain & Web3 Technologies"
-  ],
+ learning: [
+  "🌐 AWS Cloud & Infrastructure",
+  "🏗️ Scalable System Design & Architecture"
+],
+
   
   askMeAbout: [
     "💻 Full-Stack Development",
@@ -79,32 +79,29 @@ const jatin: Developer = {
   ],
   
   technologies: {
-    frontEnd: ["React", "Next.js", "Vue.js", "TypeScript"],
-    backEnd: ["Node.js", "Python", "Express", "FastAPI"],
-    cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Pinecone"],
-    ai_ml: ["OpenAI", "LangChain", "TensorFlow", "Hugging Face"]
+    frontEnd: ["React", "Next.js", "AngularJS", "TypeScript"],
+    backEnd: ["Node.js", "Python", "Express", "RestAPI"],
+    cloud: ["AWS", "Docker", ],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Pinecone", "Firebase"],
+    ai_ml: ["OpenAI", "LangChain", "Hugging Face"]
   },
   
-  architecture: ["Microservices", "Event-Driven", "Serverless", "JAMstack"],
+  architecture: ["Microservices", "Event-Driven", "Serverless", "REGstack"],
   
-  hobbies: ["🎵 Music", "📚 Reading Tech Blogs", "🎮 Gaming", "✈️ Traveling"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes while debugging code! 🧩",
-  motto: "Code with purpose, build with passion! 🚀"
+
+ motto: "Code with purpose, build with passion! 🚀"
 };
 ```
 
 <details>
-<summary>🎯 <b>2024 Goals & Achievements</b></summary>
+<summary>🎯 <b>Goals & Achievements</b></summary>
 <br>
 
-- ✅ **Completed:** AWS Solutions Architect Certification
+- ✅ **Completed:** Launch my SaaS product by Q4 2024
 - ✅ **Built:** 15+ Full-stack applications with modern tech stack
-- ✅ **Contributed:** 50+ commits to open-source projects
-- 🔄 **In Progress:** Advanced Kubernetes certification
-- 🎯 **Goal:** Launch my SaaS product by Q4 2024
-- 🎯 **Goal:** Reach 1000+ GitHub stars across all repositories
-- 🎯 **Goal:** Mentor 10+ junior developers
+- 🎯 **Goal:** Launch Open Source Products
+- 🔄 **In Progress:** AWS Developer Associate certification
+- 🎯 **Goal:** Launch at least +20 Micro SaaS
 
 </details>
 
