@@ -463,7 +463,7 @@ mindmap
 <div align="center">
   <h3>📬 Get In Touch</h3>
   
-  [![Email](https://img.shields.io/badge/📧_jatinlalit0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinlalit010@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_jatinlalit010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinlalit010@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://jatin-lalit.github.io/)
   
