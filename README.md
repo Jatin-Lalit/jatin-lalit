@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://jatin-lalit.github.io/">
-    <img style="width:100%; max-width:900px; height:350px; border-radius:20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" alt="Coding Animation"/>
+    <img style="width:600px; height:350px;" src="https://media.giphy.com/media/j0PSvAi9IIQZHvVQTl/giphy.gif" alt="Coding Animation"/>
   </a>
 </div>
 
@@ -16,15 +16,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud Architect | 🤖 AI Enthusiast | 🌟 Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Learning System Design & AWS | 🤖 AI Enthusiast | 🌟 Passionate Problem Solver</h3>
+
 
 <p align="center">
-  <em>🎯 Passionate about building scalable solutions that make a difference</em>
+  <em>🎯 Software Developer with a passion for space exploration</em>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Solutions+Architect;AI%2FML+Engineer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
 
 <div align="center">
   
