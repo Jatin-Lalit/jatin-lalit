@@ -349,19 +349,6 @@ const jatin: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬 & 𝐀𝐫𝐭𝐢𝐜𝐥𝐞𝐬 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Microservices with Docker and Kubernetes](https://dev.to/jatinlalit/building-scalable-microservices)
-- ⚡ [Optimizing React Applications for Production](https://medium.com/@jatinlalit/react-optimization)
-- 🤖 [Getting Started with LangChain and OpenAI APIs](https://dev.to/jatinlalit/langchain-openai-guide)
-- ☁️ [AWS Lambda Best Practices for Serverless Architecture](https://medium.com/@jatinlalit/aws-lambda-best-practices)
-- 🔐 [Implementing JWT Authentication in Node.js](https://dev.to/jatinlalit/jwt-authentication-nodejs)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
 
 <div align="center">
   <a href="https://dev.to/jatinlalit">
@@ -408,28 +395,29 @@ mindmap
   <h3>🔮 What's Coming Next?</h3>
   
   ```typescript
-  const upcomingProjects = {
-    q1_2025: [
-      "🤖 AI-Powered Code Review Tool",
-      "☁️ Multi-Cloud Management Platform",
-      "📱 React Native Mobile App",
-      "🔐 Zero-Trust Security Framework"
-    ],
-    
-    learning: [
-      "🧠 Advanced Machine Learning & Deep Learning",
-      "🌐 Web3 & Blockchain Development",
-      "⚡ Edge Computing & IoT",
-      "🔒 Cybersecurity & Ethical Hacking"
-    ],
-    
-    goals: [
-      "🎯 Launch SaaS Product",
-      "📚 Publish Technical eBook",
-      "🎤 Speak at Tech Conferences",
-      "🏆 Contribute to Major Open Source Projects"
-    ]
-  };
+  const myRoadmap = {
+  upcomingProjects: [
+    "🤖 AI Agent SaaS for Customer Support",
+    "💬 Web Chat AI Agent for Websites",
+    "🛒 AI Agent SaaS with E-commerce Features (Order Tracking, Product Discovery, FAQs)",
+  ],
+
+  learning: [
+    "🌐 AWS Cloud & Infrastructure",
+    "🏗️ Scalable System Design",
+    "🔐 Application & Cloud Security Best Practices",
+    "⚡ Performance Optimization & Cost Efficiency",
+    "📦 Distributed Systems & API Design"
+  ],
+
+  goals: [
+    "🚀 Launch PickaSlot — Free Scheduling Tool for Individuals & Businesses",
+    "🧩 Build & Launch 20+ Micro-SaaS Projects",
+    "🧠 Learn New Programming Languages & Deep-Dive into Their Internals",
+    "🎯 Achieve End-to-End Product Ownership from Backend to UI to Deployment"
+  ]
+};
+
   ```
   
 </div>
@@ -443,9 +431,7 @@ mindmap
 <div align="center">
   
   If you find my work helpful and would like to support my open-source contributions:
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jatinlalit)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jatinlalit)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jatinlalit0)
   [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jatin-lalit)
   
 </div>
@@ -476,13 +462,10 @@ mindmap
 
 ### 🎮 When I'm Not Coding:
 
-- 🎵 **Music Enthusiast**: I can play guitar and love creating playlists for different coding moods
-- 🧩 **Problem Solver**: Rubik's cube speedcuber - personal best under 45 seconds!
-- 📚 **Continuous Learner**: Always reading tech blogs, research papers, and experimenting with new technologies
-- ✈️ **Travel Lover**: Visited 15+ cities across India, planning international trips soon!
-- 🎮 **Gamer**: Strategy games and puzzle games are my favorites
+- 🎵 **Music Enthusiast**: I can play flute and love creating playlists for different coding moods
+- 📚 **Continuous Learner**: Always reading tech blogs, and experimenting with new technologies
 - 🍕 **Foodie**: Love trying different cuisines, especially spicy Indian food
-- 🌱 **Health Conscious**: Regular gym-goer and yoga enthusiast
+- 🌱 **Health Conscious**: Regular gym-goer
 
 ### 💭 Philosophy & Quotes:
 
@@ -498,12 +481,6 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-<div align="center">
-  <img src="https://github.com/Jatin-lalit/Jatin-lalit/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -518,7 +495,7 @@ mindmap
   🔍 Looking for exciting full-time opportunities
   💼 Available for freelance projects
   🤝 Open to collaboration on open-source projects
-  🎯 Interested in AI/ML and Cloud Architecture roles
+  🎯 Interested in SDE roles
   📧 Feel free to reach out for any discussions!
   ```
   
@@ -527,7 +504,7 @@ mindmap
 <div align="center">
   <h3>📬 Get In Touch</h3>
   
-  [![Email](https://img.shields.io/badge/📧_jatinlalit0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinlalit0@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_jatinlalit0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinlalit010@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-lalit-a4aa50236)
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://jatin-lalit.github.io/)
   
