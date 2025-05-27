@@ -31,7 +31,7 @@
   [![GitHub stars](https://img.shields.io/github/stars/Jatin-lalit?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=f39c12)](https://github.com/Jatin-lalit)
   [![Years Badge](https://badges.pufler.dev/years/Jatin-lalit?style=for-the-badge&color=blue&logo=github)](https://github.com/Jatin-lalit)
   [![Repos Badge](https://badges.pufler.dev/repos/Jatin-lalit?style=for-the-badge&color=green&logo=github)](https://github.com/Jatin-lalit?tab=repositories)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Jatin-lalit?style=for-the-badge&color=red&logo=github)](https://github.com/Jatin-lalit)
+
   
 </div>
 
