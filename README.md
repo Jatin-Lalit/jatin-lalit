@@ -249,13 +249,8 @@ const jatin: Developer = {
   <img src="https://metrics.lecoq.io/Jatin-lalit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&people=1&stargazers=1&repositories=1&achievements=1&notable=1&discussions=1&reactions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.token=NOT_NEEDED&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&reactions.details=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
 </div>
 
-<div align="center">
-  <h3>📈 Advanced Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jatinlalit&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF" alt="WakaTime Stats"/>
-</div>
 
 <div align="center">
-  <h3>🎪 Fun Stats</h3>
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Jatin-lalit&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Widget"/>
 </div>
 
@@ -263,28 +258,7 @@ const jatin: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 & 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=AI-Powered-SaaS&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/AI-Powered-SaaS)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=Cloud-Native-Microservices&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/Cloud-Native-Microservices)
-  
-</div>
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=React-Dashboard-Pro&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/React-Dashboard-Pro)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=ML-Model-API&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/ML-Model-API)
-  
-</div>
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=DevOps-Pipeline&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/DevOps-Pipeline)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jatin-lalit&repo=Blockchain-Wallet&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B)](https://github.com/Jatin-lalit/Blockchain-Wallet)
-  
-</div>
 
 <div align="center">
   <h3>🌟 More Awesome Projects</h3>
@@ -297,47 +271,13 @@ const jatin: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 & 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
 
-<div align="center">
-
-| 🏅 **Certification** | 🏢 **Issuer** | 📅 **Year** | 🔗 **Credential** |
-|:--------------------:|:-------------:|:-----------:|:-----------------:|
-| AWS Solutions Architect - Associate | Amazon Web Services | 2024 | [View](https://www.credly.com/badges/jatin-lalit) |
-| Certified Kubernetes Administrator (CKA) | Cloud Native Computing Foundation | 2024 | [View](https://www.credly.com/badges/jatin-lalit-k8s) |
-| Google Cloud Professional Developer | Google Cloud | 2023 | [View](https://www.credential.net/jatin-lalit) |
-| MongoDB Certified Developer | MongoDB Inc. | 2023 | [View](https://university.mongodb.com/jatin-lalit) |
-| Docker Certified Associate | Docker Inc. | 2023 | [View](https://www.credly.com/badges/jatin-lalit-docker) |
-
-</div>
-
-<div align="center">
-  <h3>🎯 Key Achievements</h3>
-  
-  ```
-  ✨ 50+ Successful Project Deployments
-  🚀 3+ Years of Full-Stack Development Experience
-  ☁️ 25+ Cloud-Native Applications Built
-  🤝 100+ Open Source Contributions
-  📚 10+ Technical Blog Posts Published
-  🎓 Mentored 15+ Junior Developers
-  🏆 Winner of 2 Hackathons
-  💡 5+ AI/ML Models Deployed in Production
-  ```
-  
-</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞 𝐂𝐨𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<div align="center">
-  
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jatinlalit&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF&layout=compact)
-  
-</div>
 
 <div align="center">
   
