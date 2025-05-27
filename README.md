@@ -41,7 +41,6 @@
 
 ## 🎯 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 const jatin: Developer = {
