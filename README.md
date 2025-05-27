@@ -75,15 +75,17 @@ const jatin: Developer = {
     "☁️ Cloud Architecture (AWS)",
     "🏗️ System Design & Scalability",
     "🤖 AI/ML & LangChain",
-    "🔄 DevOps & Automation"
+    "🔄 DevOps & Automation",
+    "⚙️ Workflow Automation & Integration"
   ],
   
   technologies: {
     frontEnd: ["React", "Next.js", "AngularJS", "TypeScript"],
     backEnd: ["Node.js", "Python", "Express", "RestAPI"],
-    cloud: ["AWS", "Docker", ],
+    cloud: ["AWS", "Docker"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Pinecone", "Firebase"],
-    ai_ml: ["OpenAI", "LangChain", "Hugging Face"]
+    ai_ml: ["OpenAI", "LangChain", "Hugging Face"],
+    automation: ["Zapier", "Airtable", "REG Stack"]
   },
   
   architecture: ["Microservices", "Event-Driven", "Serverless", "REGstack"],
@@ -120,7 +122,7 @@ const jatin: Developer = {
   
 </div>
 
-
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -153,11 +155,11 @@ const jatin: Developer = {
 <details open>
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
-
+  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4B4B4B?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-444444?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </details>
 
@@ -185,6 +187,28 @@ const jatin: Developer = {
 
 </details>
 
+<details open>
+<summary><b>🤖 AI/ML & Vector Databases</b></summary>
+<br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-007ACC?style=for-the-badge&logo=database&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔗 Integration & Automation</b></summary>
+<br>
+
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![REG Stack](https://img.shields.io/badge/REG_Stack-336791?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+</details>
 
 <details open>
 <summary><b>🛠️ Tools & Platforms</b></summary>
@@ -194,9 +218,11 @@ const jatin: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
@@ -249,7 +275,6 @@ const jatin: Developer = {
   <img src="https://metrics.lecoq.io/Jatin-lalit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&people=1&stargazers=1&repositories=1&achievements=1&notable=1&discussions=1&reactions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.token=NOT_NEEDED&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&reactions.details=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
 </div>
 
-
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Jatin-lalit&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Widget"/>
 </div>
@@ -257,8 +282,6 @@ const jatin: Developer = {
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <div align="center">
   <h3>🌟 More Awesome Projects</h3>
@@ -271,24 +294,13 @@ const jatin: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 <div align="center">
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jatinlalit&theme=tokyonight&hide_border=true&bg_color=0,000000,130F40&title_color=FEFE5B&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <div align="center">
   <a href="https://dev.to/jatinlalit">
@@ -322,6 +334,11 @@ mindmap
       Node.js/Python
       GraphQL APIs
       Real-time Applications
+    Automation & Integration
+      Zapier Workflows
+      Airtable Automation
+      REG Stack Solutions
+      API Integrations
     DevOps & Automation
       CI/CD Pipelines
       Infrastructure as Code
@@ -336,28 +353,32 @@ mindmap
   
   ```typescript
   const myRoadmap = {
-  upcomingProjects: [
-    "🤖 AI Agent SaaS for Customer Support",
-    "💬 Web Chat AI Agent for Websites",
-    "🛒 AI Agent SaaS with E-commerce Features (Order Tracking, Product Discovery, FAQs)",
-  ],
+    upcomingProjects: [
+      "🤖 AI Agent SaaS for Customer Support",
+      "💬 Web Chat AI Agent for Websites", 
+      "🛒 AI Agent SaaS with E-commerce Features (Order Tracking, Product Discovery, FAQs)",
+      "⚡ Automation Platform using Zapier & Airtable Integration",
+      "🔗 REG Stack Based Micro-SaaS Solutions"
+    ],
 
-  learning: [
-    "🌐 AWS Cloud & Infrastructure",
-    "🏗️ Scalable System Design",
-    "🔐 Application & Cloud Security Best Practices",
-    "⚡ Performance Optimization & Cost Efficiency",
-    "📦 Distributed Systems & API Design"
-  ],
+    learning: [
+      "🌐 AWS Cloud & Infrastructure",
+      "🏗️ Scalable System Design",
+      "🔐 Application & Cloud Security Best Practices", 
+      "⚡ Performance Optimization & Cost Efficiency",
+      "📦 Distributed Systems & API Design",
+      "🤖 Advanced AI/ML Model Integration",
+      "🔄 Advanced Workflow Automation"
+    ],
 
-  goals: [
-    "🚀 Launch PickaSlot — Free Scheduling Tool for Individuals & Businesses",
-    "🧩 Build & Launch 20+ Micro-SaaS Projects",
-    "🧠 Learn New Programming Languages & Deep-Dive into Their Internals",
-    "🎯 Achieve End-to-End Product Ownership from Backend to UI to Deployment"
-  ]
-};
-
+    goals: [
+      "🚀 Launch PickaSlot — Free Scheduling Tool for Individuals & Businesses",
+      "🧩 Build & Launch 20+ Micro-SaaS Projects",
+      "🧠 Learn New Programming Languages & Deep-Dive into Their Internals", 
+      "🎯 Achieve End-to-End Product Ownership from Backend to UI to Deployment",
+      "⚙️ Master Advanced Integration & Automation Workflows"
+    ]
+  };
   ```
   
 </div>
@@ -371,6 +392,7 @@ mindmap
 <div align="center">
   
   If you find my work helpful and would like to support my open-source contributions:
+  
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jatinlalit0)
   [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jatin-lalit)
   
